@@ -1,0 +1,7 @@
+name: form
+recipe: lamp
+config:
+  webroot: .
+services:
+  myservice:
+    type: phpmyadmin

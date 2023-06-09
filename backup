@@ -1,0 +1,18 @@
+Process form
+// session_start();
+
+// $_SESSION['u_name']=$name;
+// $_SESSION['u_pass']=$password;
+
+
+// setcookie("name",$name, time() + 3600, "/");
+// setcookie("password",$password, time() + 3600, "/");
+
+
+
+Signin php
+
+
+// session_start();
+// $u_name=$_SESSION['u_name'];
+// $u_pass=$_SESSION['u_pass'];
